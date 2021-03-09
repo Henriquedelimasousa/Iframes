@@ -1,0 +1,45 @@
+*{margin:0; padding: 0;box-sizing: border-box;}
+
+
+header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+body {
+    background-image: url('../img/S15w.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100%; 
+    
+    
+  }
+
+#text{
+    text-align: center;
+    background-color: rgb(29, 27, 29);
+    padding:  20px;
+    color: white;
+    
+}
+  p {
+  
+  background-color: rgb(31, 36, 44);
+  color: white;
+  padding: 30px;
+  font-size: 20px;
+  width: 90%;
+  margin-left: 100px;
+
+  
+
+}
+
+#imgs {
+    padding: 50px;
+  margin-left: 20%;
+  
+   
+}

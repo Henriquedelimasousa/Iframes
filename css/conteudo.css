@@ -1,0 +1,19 @@
+*{margin: 0; padding: 0;}
+
+body,#backgound {
+    background-image: url("../img/jdm.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-x: 50%;
+    background-position-y: -15%;
+    background-color: rgb(255, 255, 255);
+    
+
+}
+#text {
+    background-color: brown;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    color:rgb(255, 255, 255);
+}
